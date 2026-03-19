@@ -50,3 +50,5 @@ git commit -m → save with note
 git branch -M main → rename your working line
 
 git push -u origin main → upload + connect to GitHub
+
+workflow (clone->changes->add->commit->push)
